@@ -1,2 +1,3 @@
 # BioMed
-Research Work (Notebooks and Data)
+Biomed Research Work (including all dependencies)
+
