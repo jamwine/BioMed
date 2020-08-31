@@ -1,243 +1,237 @@
-Material,Laser parameters,NLO parameters
-Graphene and its derivatives decorated with various metals,,
- Au FG [21],514 nm,NLA = 128 cm/mW; NLR = -0.292  cm2/MW
-Pt NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.38 cm/GW
-Ni NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ ,NLA = 1.29 cm/GW
-Pt-Ni NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.64 cm/GW
-Pt-Ni cluster/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.98 cm/GW 
-GO-Ag [30],532 nm; 10 ns; 0.20 GW/cm2,NLA = 45.4 cm/GW
-GO-Ag [30],532 nm; 10 ns; 0.16 GW/cm2,NLA = 39.7.4 cm/GW
-GO-Ag [30],532 nm; 10 ns; 0.10 GW/cm2,NLA = 32.4 cm/GW
-GO-Ag [30],532 nm; 10 ns; 0.08 GW/cm2,NLA = 30.0 cm/GW
-NF-rGO/Ag-NPs(1M) [31],532 nm; 5 ns,NLA = 13.9 m/GW
-NF-rGO/Ag-NPs(1M) [31],800 nm; 100 fs,NLA = 5.8x10-15 m/W
-Au-NPs(16.55nm) /GO [39],532 nm; 180 mW,NLR = -1.85 cm2/GW
-Au-NPs(13.41 nm)/GO [39],532 nm; 180 mW,NLR = -2.7 cm2/GW
-Au-NPs(9.52nm)/GO [39],532 nm; 180 mW,NLR = -4.1cm2/GW
-Au-NPs(5.18nm)/GO[39],532 nm; 180 mW,NLR = -5.8 cm2/GW
-Pt/f-HEG [49],532 nm; 5 ns; 0.5 Hz,Fth = 13.7 J/cm2
-Pd/f-HEG [49],532 nm; 5 ns; 0.5 Hz,Fth = 8.8 J/cm2
-Pt/f-HEG [49],800 nm; 100 fs; 0.5 Hz,Fth = 1.8 J/cm2
-Pd/f-HEG [49],800 nm; 100 fs; 0.5 Hz,Fth = 1.5 J/cm2
-Ag NPs/fG composite [58],532 nm; 40 ps; 10 Hz,NLA = 812 cm/GW; Is = 3.7 GW/cm2
-Ag NPs/fG composite [58],1064 nm; 40 ps; 10 Hz,NLA = 600 cm/GW                  
-Ag NPs/rGO [12],                --,Is = 18.5 MW/cm2; NLR = -1.1x10-12 m2/W
-"2D TMDs/graphene derivatives, post-TMTs-G/GDs",,
-MoSe2/G  (Rt= 6h)  [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -6.46x10-12 m/W; NLR = 1.54x10-11 esu
-MoSe2/G  (Rt= 12h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -6.12x10-12 m/W; NLR = 1.35x10-11 esu
-MoSe2/G  (Rt=18h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -3.90x10-12 m/W; NLR = 1.18x10-11 esu
-MoSe2/G  (Rt=24h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -2.30x10-12 m/W; NLR = 1.14x10-11 esu
-MoS2/G [27],800 nm; 1 Hz,NLA ~ -1217.8 cm/GW
-MoS2/G [38],400 nm; 100fs,Is  = 1.427 GW/cm2
-MoS2/G [38],800 nm; 100 fs,Is  = 2.02 GW/cm2
-MoS2/G [38],1562.6 nm; 565 fs,Is  = 2.44 mW/cm2
-G/MoS2/PMMA [51],532 nm; 6 ns; 1Hz; 66 uJ,NLA = 2110 cm/GW
-Bi2S3/rGO (15mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.29x10-11 m/W; NLR = 1.65x10-11 esu
-Bi2S3/rGO (30mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.48x10-11 m/W; NLR =  4.03x10-11 esu
-Bi2S3/rGO (45mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.28x10-11 m/W;  NLR = 3.48x10-11 esu
-Bi2S3/rGO (60 mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 1.77x10-11 m/W;  NLR = 1.81x10-11 esu
-Semiconductor and graphene derivatives,,
-CdSe-rGO [4],532 nm; 30 ps; 10 Hz,NLA = 224.42 cm/GW; NLR = 48.90x10-11 esu
- rGO-PbS QDs [36],532 nm; 4 ns; 10 Hz; 25 uJ,NLA = 7.9x10-10 m/W
-G/CdS/PMMA  [50],532 nm; 6 ns; 1 Hz,NLA = 797 cm/GW
-GNS-CdS QDs in DMF [67],532 nm; 8 ns; 1 Hz; 250 uJ,NLA =1.37x10-13 cm/W; Fth ~ 0.88 J/cm2
-GNS-CdS QDs in DMF [67],1064 nm; 8 ns; 1 Hz; 250 uJ,NLA = 0.55x10-13 cm/W; Fth  > 6.4 J/cm2
-TiO2/rGO (0.25 g) [35],532 nm; 4 ns,NLA = 6.0x10-10 m/W
-(G/ZnO)3.9/PMMA [40],532 nm; 6 ns; 1 Hz,NLA = 415 cm/GW
-G/ZnO)7.8/PMMA  [40],532 nm; 6 ns; 1 Hz, NLA = 1530 cm/GW
-GO-Fe3O4 [62],532 nm; 5 ns; 10 Hz,NLA = 26 cm/GW; NLR = 2.83x10-13 cm2/W
-S-rGO(10 mg)-ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 5.8 cm/GW; Is = 1.5 GW/cm2
-S-rGO(30 mg)-ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 11 cm/GW; Is = 0.6 GW/cm2
-H-rGO (10 mg) ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 7.5 cm/GW; Is =0.95 GW/cm2
-H-rGO (30 mg) ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 15 cm/GW; Is =1.8 GW/cm2
-GO-Fe3O4 [68],532 nm; 5 ns,RSA: enhanced by Fe3O4
-ZnFe2O4-rGO (40wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.26x10-10 m/W; NLR = 1.29x10-38 esu
-ZnFe2O4-rGO (25wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.56x10-10 m/W; NLR = 1.33x10-38 esu
-ZnFe2O4-rGO (15wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.98x10-10 m/W; NLR = 2.50x10-38 esu
-MgO-GO (T= 60 oC) [22],532 nm; 10 ns; 200 Hz,NLA = 97 cm/GW; NLR = -1.95x10-12  cm2/W
-MgO-GO (T=180 oC) [22],532 nm; 10 ns; 200 Hz,NLA = 1.5x10-7cm/W;  NLR = -2.3x10-12  cm2/W
-MgO-GO (T=210 oC) [22],532 nm; 10 ns; 200 Hz, NLA= 1.8x10-7cm/W;  NLR= -2.7x10-12  cm2/W
-G/GDs dispersed in various solutions,,
-GO in DMF [69],532 nm; 5 ns,NLA = 5.6x10-8 cm/W; Is = 0.12 GW/cm2
-GO in DMF [69],532 nm; 35 ps,NLA = 2.2 cm/GW; Is = 2.1 GW/cm2 
-G in DMA [70],532 nm; 6 ns; 10 Hz,Fth = 2 J/cm2 
-G in NMP [70],532 nm; 6 ns; 10 Hz,Fth ~ 2.5 J/cm2
-G in GBL [70],532 nm; 6 ns; 10 Hz,Fth  ~ 3 J/cm2
-G in DMA [70],1064 nm; 6 ns; 10 Hz,Fth = 4.2 J/cm2
-G in NMP [70],1064 nm; 6 ns; 10 Hz,Fth ~ 7.8 J/cm2
-G in GBL [70],1064 nm; 6 ns; 10 Hz,Fth ~ 10 J/cm2
-G sheet in water [65],532 nm; 8 ns ,Fth = 0.25/3.2 (mJ/J cm-2)
-G sheet in DMF [65],532 nm; 8 ns,Fth = 0.15/1.9 (mJ/J cm-2)
-G sheet in THF [65],532 nm; 8 ns,Fth = 0.097/1.2 (mJ/J cm-2)
-G sheet in CAN [65],532 nm; 8 ns,Fth = 0.11/1.4 (mJ/J cm-2)
-GO in DMF [63],532 nm; 6 ns; 10 Hz,NLA = 30.22  cm/GW
-GO in DMF [63],1064 nm; 6 ns; 10 Hz,NLA = 6.19 cm/GW
-GO/water [59],532 nm; 5 ns,NLA = 0.35 nm/W
-G in alcohol [56],800 nm; 50fs; 1kHz; 46 GW/cm2,NLA = 1.96x10-2 cm/GW
-GO in water [56],800 nm; 50fs; 1kHz; 46 GW/cm2,NLA = -6.84x10-3cm/GW
- GO NPs in water [57],810 nm; 150 fs; 80 MHz ,NLA (2PA) ~ 0.045 cm/ GW (740 nm) to ~ 0.023 cm/GW (820-850 nm) 
- GO NPs in water [57],1260 nm; 130 fs; 1 kHz,NLA = 1.84x10-5cm3 GW-2 (1200 nm) to~0.6?10-5 cm3/GW2 (1260-1320 nm) 
-GF in DMF [53],532 nm; 4 ns,NLA = 20.71 cm/GW
-GF in DMF [53],1064 nm; 4 ns,NLA = 12.53 cm/GW
-GO in DMF [54],800 nm; 120 fs; 1 kHz; 82.1 GW/cm2 ,NLA = 2.5x10-11 cm/W; NLR = -5.3x10-16 cm2/W  
-G  in DMF [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.89 cm/GW
-G in NMP [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.6  cm/GW    
-G in SC [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.05 cm/GW 
-GO sheets in water [44],532 nm; 4 ns,NLA = 130.10 cm/GW
-GO sheets in water [44],1064 nm; 4 ns,NLA = 20.01 cm/GW
-GO in DMSO [43],532 nm; 4 ns; 10 Hz; 0.43 J/ cm2,NLA = 50cm/GW
-SLGO in water [28],532 nm; 4 ns,NLA = 108.4 cm/GW
-FLGO in DMF [28],532 nm; 4 ns,NLA = 220 cm/GW 
-SLGO in water [28],532 nm; 35 ps,NLA = 2.08 cm/GW  
-GO/Water (% V) 0.82 [16],534 nm,NLR = -7.060 cm2/GW
-GO/Water (% V) 1.63 [16],534 nm,NLR = -7.876 cm2/GW
-GO/Water (% V) 2.43 [16],534 nm,NLR = -8.679 cm2/GW
-GO/Water (% V) 3.22 [16],534 nm,NLR = -9.381cm2/GW
-GO/Water (% V) 4.00 [16],534 nm,NLR = -9.971cm2/GW
-G NSs in water (hydrazine hydrate=5ml) [13],532 nm; 30 ps; 1 Hz,NLA = 1.11 cm/GW
-G NSs in water (15 ml) [13],532 nm; 30 ps; 1 Hz,NLA = 3.67 cm/GW
-G NSs in water (25 ml) [13],532 nm; 30 ps; 1 Hz,NLA = 4.32 cm/GW
-GF in DMF [28],532 nm; 4 ns,NLA =12.7 cm/GW; NLR = 14.7x10-18 m2/W
-f-GF in water [28],532 nm; 4 ns,NLR = -34.2x10-18 m2/W
-f-GF in water [28],532 nm; 35 ps,NLA = 0.8 cm/GW; NLR = -1.2x10-18 m2/W
-GF in DMF [28],532 nm; 35 ps,NLR = 0.16x10-18 m2/W
-GF in DMF [53],532 nm; 4 ns,NLA = 20.71 cm/GW
-GF in DMF [53],1064nm; 4 ns,NLA = 12.53 cm/GW
-F-GO/water  [59],532 nm; 5 ns,NLA = 1.40 nm/W
-HF-GO/NMP [59],532 nm; 5 ns,NLA = 0.7 nm/W
-GO-ZnPc  in DMSO [43],532 nm; 4 ns; 10 Hz; 0.43 J/cm2,NLA = 300 cm/GW
-r-GO-ZnPc in DMSO [43],532 nm; 4 ns; 0.43 J/cm2,NLA = 1500 cm/GW
-G-Cu porphyrin in DMF [61],532 nm; 6 ns; 10 Hz,NLA = 3570 cm/GW
-GO-PcZn in DMF [63],532 nm; 6 ns; 10 Hz,NLA = 51.16 cm/GW
-GO-PcZn in DMF [63],1064 nm; 6 ns; 10 Hz,NLA = 31.04 cm/GW
-FGO2 (3-5 layers)/DMF [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 1x10-11 cm/W
-"Graphene, graphene oxide, reduced graphene oxide films/layers",,
-G/quartz [6],690 -1050 nm; 80MHz; 100 fs,NLR = 9.07x10-9 to 1.76x10-8 cm2/W
-MLG/quartz [5],633 nm;  20 mW,NLA = 15.4x10-3 m/W; NLR = -14.5 m2/GW
-Annealed MLG/quartz (250oC) [5],633 nm;  20 mW,NLA = 4.2x10-3 m/W; NLR = -1.4 m2/GW
-rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 129.01 cm/GW
-PFTP-rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 215.77 cm/GW
-Annealed PFTP-rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 296.79 cm/GW
-rGO/PMMA [17] ,1064 nm; 2 Hz; 300 uJ,NLA = 148.42 cm/GW
-PFTP-rGO/PMMA film [17],1064 nm; 2 Hz; 300 uJ,NLA = 300.13 cm/GW
-Annealed PFTP-rGO/PMMA film [17],1064 nm; 2 Hz; 300 uJ,NLA = 369.89 cm/GW
-MLG (5-7 layers) [32],1150 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 3800 cm/W; NLR = -0.55 cm2/GW
-MLG (5-7 layers) [32],1550 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 9000 cm/W; NLR= -0.8 cm2/GW              
-MLG (5-7 layers) [32],1900 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 15000 cm/W; NLR= -1.4  cm2/GW                
-MLG (5-7 layers) [32],2400 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 19000 cm/W; NLR= -2.5 cm2/GW                 
-electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 80mJ/cm2,NLA = -2cm/GW; NLR = 3.63cm2/GW
-electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 100mJ/cm2,NLA = +3cm/GW; NLR = 2.82cm2/GW
-electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 200 mJ/cm2,NLA = +5cm/GW; NLR = 1.91cm2/GW
-electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 400mJ/cm2,NLA = +7cm/GW; NLR = 0.57cm2/GW
-GO films/glass [60],400nm;100 fs; 1 kHz ,NLA ~ 41 000 cm/GW
-GO films/glass [60],800 nm;100 fs; 1 kHz,NLA(2PA)~31 cm/GW; NLA(3PA)~ 0.47cm3/GW2
-G layers/quartz [55],1550 nm; 3.8 ps; 10 MHz,NLR ~ 10-7 cm2/W
-GO thin film [48],800 nm ; 100 fs; 70 GW/cm2,NLA = 0.47x10-18 cm3/GW2
- G/quartz [45],733 nm;100 fs; 80 MHz; 94 GW/cm2,NLA = 6 cm/MW; NLR = 1.4 cm2/GW  
-GO films [26],1560 nm; 67 fs; 20 MHz,NLA ~ 103 cm/GW; NLR = 0.45 cm2/GW
-SGO [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 4x10-11 cm/W
-FGO1 (3-4 layers) [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 3x10-11 cm/W
- G/PMMA [50],532 nm; 6 ns; 1 Hz,NLA = 242 cm/GW
-Others ,,
-GO [1],532nm; 30 mW,NLA = 206.9 cm/MW; NLR = 9.68 cm2/GW
-GO [1],532nm; 40 mW,NLA = 138.0 cm/MW; NLR = 10.64 cm2/GW
-GO [1],532nm; 50 mW,NLA = 43.6 cm/MW; NLR = 12.54 cm2/GW
-rGO [2],532 nm,NLA= -0.01x10-4 cm/W; NLR= -8.83x10-8 cm2/W
-r-GO (25%)-PANI [2],532 nm,NLA= -0.03x10-4 cm/W; NLR= -11.28x10-8 cm2/W
-r-GO (50%)-PANI [2],532 nm,NLA = -0.09x10-4 cm/W;  NLR= -134.3 cm2/GW
-rGO(75%)-PANI [2],532 nm,NLA = -0.04x10-4 cm/W; NLR = -120.6 cm2/GW
-GO [3],532 nm; 150 mW,NLR = 1.2 cm2/GW
-GO-SiO2 (0.5:1) [3],532 nm; 150 mW,NLR = 6.2 cm2/GW
-GO-SiO2 (1: 1) [3],532 nm; 150 mW,NLR = 6.8 cm2/GW
-GO-SiO2 (2:1) [3],532 nm; 150 mW,NLR = 8.5 cm2/GW
-rGO [4],532 nm; 30 ps; 10 Hz,NLA = 0.75 cm/GW; NLR = 0.21x10-11 esu
-rGO [8],532 nm; 30 ps; 10 Hz;  4.5 GW/cm2,NLA = -1.23x10-11 m/W; NLR =  0.71x10-11 esu
-GO [9],527 nm; 1 kHz; 150 ns; 28MW/cm2,NLA = 15.14 cm/GW 
-f-GO/sol [9],527 nm; 1 kHz; 150 ns; 28MW/cm2,NLA = 53.10 cm/GW   
-GO [9],527 nm; 1 kHz; 150 ns; 56MW/cm2,NLA =  21.65 cm/GW
-f-GO/sol [9],527 nm; 1 kHz; 150 ns; 56MW/cm2,NLA = 345.92 cm/GW
-GO [9],527 nm; 1 kHz; 150 ns; 113 MW/cm2,NLA = 14.06 cm/GW
-f-GO/sol [9],527 nm; 1 kHz; 150 ns; 113 MW/cm2,NLA= 378.45 cm/GW
-ZnNcC4-GO [10],532nm; 4ns; 10 Hz; 0.56  J/cm2,NLA = 220 cm/GW
-ZnNcC4-NGO [10],532nm; 4ns; 10 Hz; 0.56  J/cm2,NLA = 450 cm/GW 
-ZnPcC4-NGO [10],532nm; 4ns; 10 Hz; 0.56 J/cm2,NLA = 360 cm/GW
-GO [11],650 nm; 120 mW,NLA = 0.0808 cm/W; NL = -2.36x10-7 cm2/W     
-rGO [10],650 nm; 120 mW,NLA = 0.0025 cm/W; NLR = -1.33 cm2/MW     
-rGO [12],Femtosecond laser,Is = 25.1 MW/cm2; NLR = -4.9x10-13 m2/W
-GO [14],532 nm; 1 Hz; 4 ns; 8.53 GW/cm2,NLA = 1.68x10-11 cm/W
-G-ZnO [15],1030 nm; 340 fs; 100 Hz; 18.7GW/cm2,NLA(2PA) = -78.6x10-3 cm/GW
-G-ZnO [15],1030 nm; 340 fs; 100 Hz; 28.1GW/cm2,NLA(3PA) = 8.54x10-3 cm3-GW-2 
-G-ZnO [15],1030 nm; 340 fs; 100 Hz;  46.8GW/cm2,NLA(5PA)= 0.078x10-3 cm7-GW-4 
-h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.13 GW/cm2,NLA = 13.4 cm/GW
-h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.16 GW/cm2,NLA = 17 cm/GW
-h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.20 GW/cm2,NLA = 14.3 cm/GW; NLR = 2.58x10-13 cm2/W
-GO  [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 1.07 cm/GW
-ZnP-GO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 2.80 cm/GW
-PF-GO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 4.99 cm/GW
-ZnP-rGO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 6.58 cm/GW
-PF-rGO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 7.07 cm/GW
-GO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.16 cm/GW
-ZnP-GO [19] ,1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.23 cm/GW
-PF-GO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.38 cm/GW
-ZnP-rGO [19] ,1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 1.96 cm/GW
-PF-rGO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 5.0 cm/GW 
-"GO-X(=6, 8, 10, 12) [20]",1064 nm; 4 ns,NLA = 45 cm/GW (GO-6) to 9.8 cm/GW (GO-12)
-"Y(80, 100, 120, 140, 160)-rGO-X(6) [20]",1064 nm; 4 ns,NLA = 58 cm/GW (80-rGO-6) to 560 cm/GW (160-rGO-6)
-Y(100)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +1.87x10-17  m2/W 
-Y(120)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +7.32x10-17  m2/W  
-Y(140)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +6.23x10-17  m2/W 
-Y(160)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +7.36x10-17  m2/W 
-Y(180)-rGO-X(6) [20],1064 nm; 4 ns,NLA = 490 cm/GW; NLR = +8.40x10-17 m2/W
-NFG [21],514 nm,NLA = 1.58x10-2cm/W; NLR = -1.52 cm2/MW
-FG [21],514 nm,NLA = 8.75x10-2cm/W; NLR = -0.53  cm2/MW
-r-GO [50],532nm; 50 mW,NLA = -2.62x10-4 cm/W
-GO [35],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.22 cm/GW  
-G [62],800 nm; 1 Hz,NLA ~ -961.6 cm/GW 
-GO [23],532 nm; 50 mW,NLA = 6.1x10-3 cm/W; NLR = 4.0x10-8 cm2/W           
-ZnFe2O-(15%) rGO [29],532 nm; 50 mW,NLA = 6.5x10-3 cm/W; NLR = 4.7x10-8 cm2/W     
-ZnFe2O-(25%) rGO [29],532 nm; 50 mW,NLA = 6.3x10-3 cm/W; NLR = 4.5x10-8 cm2/W          
-ZnFe2O-(40%) rGO [29],532 nm; 50 mW,NLA = 6.1x10-3 cm/W; NLR = 4.5x10-8 cm2/W         
-GO [29],800 nm; 80MHz; 150 fs, NLA = 12.0x10-12 m/W; NLR = 14.7x10-18 m2/W          
-ZnFe2O-(15%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 4.0x10-12 m/W; NLR = 4.2x10-18 m2/W         
-ZnFe2O-(25%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 3.1x10-12 m/W; NLR = 2.8x10-18 m2/W          
-ZnFe2O-(40%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 2.6x10-12 m/W; NLR = 1.5x10-18 m2/W           
-GO [30],532 nm; 10 ns; 0.20 GW/cm2,NLA = 17 cm/GW
-GO [30],532 nm; 10 ns; 0.16 GW/cm2,NLA = 13.5 cm/GW
-GO [30],532 nm; 10 ns; 0.10 GW/cm2,NLA = 12 cm/GW
-GO [30],532 nm; 10 ns; 0.08 GW/cm2,NLA = 10.8 cm/GW
-NF-rGO [31],532 nm; 5 ns,NLA = 2.8x10-10 m/W
-NF-rGO [31],800 nm; 100 fs,NLA = 2.5x10-15 m/W
-GO [34],532 nm; 4 ns; 10 Hz,NLA = 80 cm/GW
-ZnPcC4-GO [34],532 nm; 4 ns; 10 Hz,NLA = 200 cm/GW
-NGO [34],532 nm; 4 ns; 10 Hz,NLA = 120 cm/GW
-ZnPcC4-NGO [34],532 nm; 4 ns; 10 Hz,NLA = 370 cm/GW
-rGO [35],532 nm; 4 ns,NLA = 3.0x10-10 m/W
-GO [36],532 nm; 4 ns; 10 Hz; 25 uJ,NLA = 1.0x10-10 m/W
-GO-Cz [37],532 nm,NLA = 58.56 cm/GW
-GO-Cz [37],1064 nm,NLA = 23.08 cm/GW
-G1.1/PMMA [40],532 nm; 6 ns; 1 Hz,NLA =  275 cm/GW    
-rGO [41],800 nm; 100 fs; 32 uJ/cm,NLA = 40000 cm/GW 
-rGO [41],800 nm; 100 fs; >50 uJ/cm,NLR ~ 10-9 cm2/W
-f-HEG [42],800 nm; 100 fs,Fth = 2.7 J/cm2
-CuO/f-HEG [42],532 nm; 5 ns,NLA = 10-10 m/W; Fth = 4.35 J/cm2
-CuO/f-HEG [42],800 nm; 100 fs,NLA = 10-14 m/W; Fth =1.43 J/cm2 
-GO [46],532 nm; 5 ns; 10 Hz,NLA = 5.4 cm/GW; Is = 1.7 GW/cm2
- f-HEG [49],532 nm; 5 ns; 0.5 Hz,NLA ~ 10-11 to 10-10 m/W 
- f-HEG [49],800 nm; 100 fs; 0.5 Hz,NLA ~ 10-15 m/W; Fth = 2.7 J/cm2
-GO-NH2-Pani hybrid [52],532 nm; 5 ns; 10 Hz; 35 ?J ,NLA = 8.5 cm/GW; Is = 0.8 GW/cm2
-GO [54],800 nm; 120 fs; 1 kHz; 82.1 GW/cm2 ,NLA = 1.6x10-11 cm/W; NLR = -1.1x10-15 cm2/W
-fG [58],1064 nm; 40 ps; 10 Hz,NLA = 280 cm/GW; Is = 8 GW/cm2
-G [61],532 nm; 6 ns; 10 Hz,NLA = 132cm/GW
-G-Zn porphyrin [61],532 nm; 6 ns; 10 Hz,NLA = 4720 cm/GW 
-GO [62],532 nm; 5 ns; 10 Hz,NLA = 7.8 cm/GW; NLR = 9.74x10-14 cm2/W
-GO [65],532 nm,NLA = 2.8 cm/GW       
-GONSs [66],532 nm; 250 uJ/pulse,NLA = 0.29x10-13 cm/W; Fth > 3J/cm2
-GNSs [66],532 nm; 250 uJ/pulse,NLA = 1.36x10-13 cm/W; Fth = 0.5J/cm2
-GONRs [66],532 nm; 250 uJ/pulse,NLA = 1.09x10-13 cm/W; Fth = 1J/cm2
-GNRs [66],532 nm; 250 uJ/pulse,NLA = 1.26x10-13 cm/W; Fth = 0.7 J/cm2
-GONSs [66],1064 nm; 250 uJ/pulse,NLA = 0.12x10-13 cm/W
-GNSs [66],1064 nm; 250 uJ/pulse,NLA = 1.16x10-13 cm/W; Fth = 6.3J/cm2
-GONRs [66],1064 nm; 250 uJ/pulse,NLA =1.40x10-13 cm/W; Fth = 4.0 J/cm2
-GNRs [66],1064 nm; 250 uJ/pulse,NLA = 1.6x10-13 cm/W; Fth = 3.4  J/cm2
-Hydrothermally r-GO [71],1560 nm;  100 MHz; CW,Transmittance = 57%;  Pout/Pin = 0.49 
-Hydrothermally r-GO [71],1560 nm;  100 MHz; 5 ns,Transmittance = 12% ;  Pout/Pin = 0.11
+Category,Material,Laser parameters,NLO parameters,Source
+Graphene and its derivatives decorated with various metals, Au FG [21],514 nm,NLA = 128 cm/mW; NLR = -0.292  cm2/MW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pt NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.38 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Ni NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ ,NLA = 1.29 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pt-Ni NP/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.64 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pt-Ni cluster/rGO [25],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.98 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,GO-Ag [30],532 nm; 10 ns; 0.20 GW/cm2,NLA = 45.4 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,GO-Ag [30],532 nm; 10 ns; 0.16 GW/cm2,NLA = 39.7.4 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,GO-Ag [30],532 nm; 10 ns; 0.10 GW/cm2,NLA = 32.4 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,GO-Ag [30],532 nm; 10 ns; 0.08 GW/cm2,NLA = 30.0 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,NF-rGO/Ag-NPs(1M) [31],532 nm; 5 ns,NLA = 13.9 m/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,NF-rGO/Ag-NPs(1M) [31],800 nm; 100 fs,NLA = 5.8x10-15 m/W,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Au-NPs(16.55nm) /GO [39],532 nm; 180 mW,NLR = -1.85 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Au-NPs(13.41 nm)/GO [39],532 nm; 180 mW,NLR = -2.7 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Au-NPs(9.52nm)/GO [39],532 nm; 180 mW,NLR = -4.1cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Au-NPs(5.18nm)/GO[39],532 nm; 180 mW,NLR = -5.8 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pt/f-HEG [49],532 nm; 5 ns; 0.5 Hz,Fth = 13.7 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pd/f-HEG [49],532 nm; 5 ns; 0.5 Hz,Fth = 8.8 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pt/f-HEG [49],800 nm; 100 fs; 0.5 Hz,Fth = 1.8 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Pd/f-HEG [49],800 nm; 100 fs; 0.5 Hz,Fth = 1.5 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Ag NPs/fG composite [58],532 nm; 40 ps; 10 Hz,NLA = 812 cm/GW; Is = 3.7 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Ag NPs/fG composite [58],1064 nm; 40 ps; 10 Hz,NLA = 600 cm/GW                  ,Database on the nonlinear optical properties of graphene based materials
+Graphene and its derivatives decorated with various metals,Ag NPs/rGO [12],                --,Is = 18.5 MW/cm2; NLR = -1.1x10-12 m2/W,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoSe2/G  (Rt= 6h)  [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -6.46x10-12 m/W; NLR = 1.54x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoSe2/G  (Rt= 12h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -6.12x10-12 m/W; NLR = 1.35x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoSe2/G  (Rt=18h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -3.90x10-12 m/W; NLR = 1.18x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoSe2/G  (Rt=24h) [7],532 nm; 30 ps; 10 Hz; 6.6 GW/cm2,NLA = -2.30x10-12 m/W; NLR = 1.14x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoS2/G [27],800 nm; 1 Hz,NLA ~ -1217.8 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoS2/G [38],400 nm; 100fs,Is  = 1.427 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoS2/G [38],800 nm; 100 fs,Is  = 2.02 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",MoS2/G [38],1562.6 nm; 565 fs,Is  = 2.44 mW/cm2,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",G/MoS2/PMMA [51],532 nm; 6 ns; 1Hz; 66 uJ,NLA = 2110 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",Bi2S3/rGO (15mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.29x10-11 m/W; NLR = 1.65x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",Bi2S3/rGO (30mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.48x10-11 m/W; NLR =  4.03x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",Bi2S3/rGO (45mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 2.28x10-11 m/W;  NLR = 3.48x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+"2D TMDs/graphene derivatives, post-TMTs-G/GDs",Bi2S3/rGO (60 mg) [8],532 nm; 30 ps; 10 Hz; 4.5 GW/cm2,NLA = 1.77x10-11 m/W;  NLR = 1.81x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,CdSe-rGO [4],532 nm; 30 ps; 10 Hz,NLA = 224.42 cm/GW; NLR = 48.90x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives, rGO-PbS QDs [36],532 nm; 4 ns; 10 Hz; 25 uJ,NLA = 7.9x10-10 m/W,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,G/CdS/PMMA  [50],532 nm; 6 ns; 1 Hz,NLA = 797 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,GNS-CdS QDs in DMF [67],532 nm; 8 ns; 1 Hz; 250 uJ,NLA =1.37x10-13 cm/W; Fth ~ 0.88 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,GNS-CdS QDs in DMF [67],1064 nm; 8 ns; 1 Hz; 250 uJ,NLA = 0.55x10-13 cm/W; Fth  > 6.4 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,TiO2/rGO (0.25 g) [35],532 nm; 4 ns,NLA = 6.0x10-10 m/W,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,(G/ZnO)3.9/PMMA [40],532 nm; 6 ns; 1 Hz,NLA = 415 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,G/ZnO)7.8/PMMA  [40],532 nm; 6 ns; 1 Hz, NLA = 1530 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,GO-Fe3O4 [62],532 nm; 5 ns; 10 Hz,NLA = 26 cm/GW; NLR = 2.83x10-13 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,S-rGO(10 mg)-ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 5.8 cm/GW; Is = 1.5 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,S-rGO(30 mg)-ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 11 cm/GW; Is = 0.6 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,H-rGO (10 mg) ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 7.5 cm/GW; Is =0.95 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,H-rGO (30 mg) ZnO [46],532 nm; 5 ns; 10 Hz,NLA = 15 cm/GW; Is =1.8 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,GO-Fe3O4 [68],532 nm; 5 ns,RSA: enhanced by Fe3O4,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,ZnFe2O4-rGO (40wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.26x10-10 m/W; NLR = 1.29x10-38 esu,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,ZnFe2O4-rGO (25wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.56x10-10 m/W; NLR = 1.33x10-38 esu,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,ZnFe2O4-rGO (15wt%) [24],532 nm; 5 ns; 10 Hz; 100 uJ,NLA = 1.98x10-10 m/W; NLR = 2.50x10-38 esu,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,MgO-GO (T= 60 oC) [22],532 nm; 10 ns; 200 Hz,NLA = 97 cm/GW; NLR = -1.95x10-12  cm2/W,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,MgO-GO (T=180 oC) [22],532 nm; 10 ns; 200 Hz,NLA = 1.5x10-7cm/W;  NLR = -2.3x10-12  cm2/W,Database on the nonlinear optical properties of graphene based materials
+Semiconductor and graphene derivatives,MgO-GO (T=210 oC) [22],532 nm; 10 ns; 200 Hz, NLA= 1.8x10-7cm/W;  NLR= -2.7x10-12  cm2/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMF [69],532 nm; 5 ns,NLA = 5.6x10-8 cm/W; Is = 0.12 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMF [69],532 nm; 35 ps,NLA = 2.2 cm/GW; Is = 2.1 GW/cm2 ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in DMA [70],532 nm; 6 ns; 10 Hz,Fth = 2 J/cm2 ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in NMP [70],532 nm; 6 ns; 10 Hz,Fth ~ 2.5 J/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in GBL [70],532 nm; 6 ns; 10 Hz,Fth  ~ 3 J/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in DMA [70],1064 nm; 6 ns; 10 Hz,Fth = 4.2 J/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in NMP [70],1064 nm; 6 ns; 10 Hz,Fth ~ 7.8 J/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in GBL [70],1064 nm; 6 ns; 10 Hz,Fth ~ 10 J/cm2,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G sheet in water [65],532 nm; 8 ns ,Fth = 0.25/3.2 (mJ/J cm-2),Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G sheet in DMF [65],532 nm; 8 ns,Fth = 0.15/1.9 (mJ/J cm-2),Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G sheet in THF [65],532 nm; 8 ns,Fth = 0.097/1.2 (mJ/J cm-2),Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G sheet in CAN [65],532 nm; 8 ns,Fth = 0.11/1.4 (mJ/J cm-2),Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMF [63],532 nm; 6 ns; 10 Hz,NLA = 30.22  cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMF [63],1064 nm; 6 ns; 10 Hz,NLA = 6.19 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/water [59],532 nm; 5 ns,NLA = 0.35 nm/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in alcohol [56],800 nm; 50fs; 1kHz; 46 GW/cm2,NLA = 1.96x10-2 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in water [56],800 nm; 50fs; 1kHz; 46 GW/cm2,NLA = -6.84x10-3cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions, GO NPs in water [57],810 nm; 150 fs; 80 MHz ,NLA (2PA) ~ 0.045 cm/ GW (740 nm) to ~ 0.023 cm/GW (820-850 nm) ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions, GO NPs in water [57],1260 nm; 130 fs; 1 kHz,NLA = 1.84x10-5cm3 GW-2 (1200 nm) to~0.6?10-5 cm3/GW2 (1260-1320 nm) ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [53],532 nm; 4 ns,NLA = 20.71 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [53],1064 nm; 4 ns,NLA = 12.53 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMF [54],800 nm; 120 fs; 1 kHz; 82.1 GW/cm2 ,NLA = 2.5x10-11 cm/W; NLR = -5.3x10-16 cm2/W  ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G  in DMF [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.89 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in NMP [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.6  cm/GW    ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G in SC [47],532 nm; 6 ns; 2 Hz; 57~166 nJ,NLA = 2.05 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO sheets in water [44],532 nm; 4 ns,NLA = 130.10 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO sheets in water [44],1064 nm; 4 ns,NLA = 20.01 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO in DMSO [43],532 nm; 4 ns; 10 Hz; 0.43 J/ cm2,NLA = 50cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,SLGO in water [28],532 nm; 4 ns,NLA = 108.4 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,FLGO in DMF [28],532 nm; 4 ns,NLA = 220 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,SLGO in water [28],532 nm; 35 ps,NLA = 2.08 cm/GW  ,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/Water (% V) 0.82 [16],534 nm,NLR = -7.060 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/Water (% V) 1.63 [16],534 nm,NLR = -7.876 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/Water (% V) 2.43 [16],534 nm,NLR = -8.679 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/Water (% V) 3.22 [16],534 nm,NLR = -9.381cm2/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO/Water (% V) 4.00 [16],534 nm,NLR = -9.971cm2/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G NSs in water (hydrazine hydrate=5ml) [13],532 nm; 30 ps; 1 Hz,NLA = 1.11 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G NSs in water (15 ml) [13],532 nm; 30 ps; 1 Hz,NLA = 3.67 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G NSs in water (25 ml) [13],532 nm; 30 ps; 1 Hz,NLA = 4.32 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [28],532 nm; 4 ns,NLA =12.7 cm/GW; NLR = 14.7x10-18 m2/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,f-GF in water [28],532 nm; 4 ns,NLR = -34.2x10-18 m2/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,f-GF in water [28],532 nm; 35 ps,NLA = 0.8 cm/GW; NLR = -1.2x10-18 m2/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [28],532 nm; 35 ps,NLR = 0.16x10-18 m2/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [53],532 nm; 4 ns,NLA = 20.71 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GF in DMF [53],1064nm; 4 ns,NLA = 12.53 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,F-GO/water  [59],532 nm; 5 ns,NLA = 1.40 nm/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,HF-GO/NMP [59],532 nm; 5 ns,NLA = 0.7 nm/W,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO-ZnPc  in DMSO [43],532 nm; 4 ns; 10 Hz; 0.43 J/cm2,NLA = 300 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,r-GO-ZnPc in DMSO [43],532 nm; 4 ns; 0.43 J/cm2,NLA = 1500 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,G-Cu porphyrin in DMF [61],532 nm; 6 ns; 10 Hz,NLA = 3570 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO-PcZn in DMF [63],532 nm; 6 ns; 10 Hz,NLA = 51.16 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,GO-PcZn in DMF [63],1064 nm; 6 ns; 10 Hz,NLA = 31.04 cm/GW,Database on the nonlinear optical properties of graphene based materials
+G/GDs dispersed in various solutions,FGO2 (3-5 layers)/DMF [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 1x10-11 cm/W,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",G/quartz [6],690 -1050 nm; 80MHz; 100 fs,NLR = 9.07x10-9 to 1.76x10-8 cm2/W,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",MLG/quartz [5],633 nm;  20 mW,NLA = 15.4x10-3 m/W; NLR = -14.5 m2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",Annealed MLG/quartz (250oC) [5],633 nm;  20 mW,NLA = 4.2x10-3 m/W; NLR = -1.4 m2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 129.01 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",PFTP-rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 215.77 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",Annealed PFTP-rGO/PMMA [17],532 nm; 2 Hz; 300 uJ,NLA = 296.79 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",rGO/PMMA [17] ,1064 nm; 2 Hz; 300 uJ,NLA = 148.42 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",PFTP-rGO/PMMA film [17],1064 nm; 2 Hz; 300 uJ,NLA = 300.13 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",Annealed PFTP-rGO/PMMA film [17],1064 nm; 2 Hz; 300 uJ,NLA = 369.89 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",MLG (5-7 layers) [32],1150 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 3800 cm/W; NLR = -0.55 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",MLG (5-7 layers) [32],1550 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 9000 cm/W; NLR= -0.8 cm2/GW              ,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",MLG (5-7 layers) [32],1900 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 15000 cm/W; NLR= -1.4  cm2/GW                ,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",MLG (5-7 layers) [32],2400 nm; 100 fs; 1 kHz; 22GW/cm2,NLA = 19000 cm/W; NLR= -2.5 cm2/GW                 ,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 80mJ/cm2,NLA = -2cm/GW; NLR = 3.63cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 100mJ/cm2,NLA = +3cm/GW; NLR = 2.82cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 200 mJ/cm2,NLA = +5cm/GW; NLR = 1.91cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",electrochemically derived GO film [33],800 nm; 10 kHz; 85 fs; 400mJ/cm2,NLA = +7cm/GW; NLR = 0.57cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",GO films/glass [60],400nm;100 fs; 1 kHz ,NLA ~ 41 000 cm/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",GO films/glass [60],800 nm;100 fs; 1 kHz,NLA(2PA)~31 cm/GW; NLA(3PA)~ 0.47cm3/GW2,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",G layers/quartz [55],1550 nm; 3.8 ps; 10 MHz,NLR ~ 10-7 cm2/W,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",GO thin film [48],800 nm ; 100 fs; 70 GW/cm2,NLA = 0.47x10-18 cm3/GW2,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers", G/quartz [45],733 nm;100 fs; 80 MHz; 94 GW/cm2,NLA = 6 cm/MW; NLR = 1.4 cm2/GW  ,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",GO films [26],1560 nm; 67 fs; 20 MHz,NLA ~ 103 cm/GW; NLR = 0.45 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",SGO [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 4x10-11 cm/W,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers",FGO1 (3-4 layers) [64],800 nm; 120 fs; 1 kHz; 303 GW/cm2,NLA = 3x10-11 cm/W,Database on the nonlinear optical properties of graphene based materials
+"Graphene, graphene oxide, reduced graphene oxide films/layers", G/PMMA [50],532 nm; 6 ns; 1 Hz,NLA = 242 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [1],532nm; 30 mW,NLA = 206.9 cm/MW; NLR = 9.68 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [1],532nm; 40 mW,NLA = 138.0 cm/MW; NLR = 10.64 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [1],532nm; 50 mW,NLA = 43.6 cm/MW; NLR = 12.54 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [2],532 nm,NLA= -0.01x10-4 cm/W; NLR= -8.83x10-8 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,r-GO (25%)-PANI [2],532 nm,NLA= -0.03x10-4 cm/W; NLR= -11.28x10-8 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,r-GO (50%)-PANI [2],532 nm,NLA = -0.09x10-4 cm/W;  NLR= -134.3 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO(75%)-PANI [2],532 nm,NLA = -0.04x10-4 cm/W; NLR = -120.6 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [3],532 nm; 150 mW,NLR = 1.2 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-SiO2 (0.5:1) [3],532 nm; 150 mW,NLR = 6.2 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-SiO2 (1: 1) [3],532 nm; 150 mW,NLR = 6.8 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-SiO2 (2:1) [3],532 nm; 150 mW,NLR = 8.5 cm2/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [4],532 nm; 30 ps; 10 Hz,NLA = 0.75 cm/GW; NLR = 0.21x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [8],532 nm; 30 ps; 10 Hz;  4.5 GW/cm2,NLA = -1.23x10-11 m/W; NLR =  0.71x10-11 esu,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [9],527 nm; 1 kHz; 150 ns; 28MW/cm2,NLA = 15.14 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,f-GO/sol [9],527 nm; 1 kHz; 150 ns; 28MW/cm2,NLA = 53.10 cm/GW   ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [9],527 nm; 1 kHz; 150 ns; 56MW/cm2,NLA =  21.65 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,f-GO/sol [9],527 nm; 1 kHz; 150 ns; 56MW/cm2,NLA = 345.92 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [9],527 nm; 1 kHz; 150 ns; 113 MW/cm2,NLA = 14.06 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,f-GO/sol [9],527 nm; 1 kHz; 150 ns; 113 MW/cm2,NLA= 378.45 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnNcC4-GO [10],532nm; 4ns; 10 Hz; 0.56  J/cm2,NLA = 220 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnNcC4-NGO [10],532nm; 4ns; 10 Hz; 0.56  J/cm2,NLA = 450 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnPcC4-NGO [10],532nm; 4ns; 10 Hz; 0.56 J/cm2,NLA = 360 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [11],650 nm; 120 mW,NLA = 0.0808 cm/W; NL = -2.36x10-7 cm2/W     ,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [10],650 nm; 120 mW,NLA = 0.0025 cm/W; NLR = -1.33 cm2/MW     ,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [12],Femtosecond laser,Is = 25.1 MW/cm2; NLR = -4.9x10-13 m2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [14],532 nm; 1 Hz; 4 ns; 8.53 GW/cm2,NLA = 1.68x10-11 cm/W,Database on the nonlinear optical properties of graphene based materials
+Others ,G-ZnO [15],1030 nm; 340 fs; 100 Hz; 18.7GW/cm2,NLA(2PA) = -78.6x10-3 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,G-ZnO [15],1030 nm; 340 fs; 100 Hz; 28.1GW/cm2,NLA(3PA) = 8.54x10-3 cm3-GW-2 ,Database on the nonlinear optical properties of graphene based materials
+Others ,G-ZnO [15],1030 nm; 340 fs; 100 Hz;  46.8GW/cm2,NLA(5PA)= 0.078x10-3 cm7-GW-4 ,Database on the nonlinear optical properties of graphene based materials
+Others ,h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.13 GW/cm2,NLA = 13.4 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.16 GW/cm2,NLA = 17 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,h-BN NSs-GO (0.1mg/ml) [18],532 nm; 8 ns; 0.20 GW/cm2,NLA = 14.3 cm/GW; NLR = 2.58x10-13 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO  [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 1.07 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnP-GO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 2.80 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,PF-GO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 4.99 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnP-rGO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 6.58 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,PF-rGO [19],532 nm; 6 ns; 10 Hz; 150 uJ,NLA = 7.07 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.16 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnP-GO [19] ,1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.23 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,PF-GO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 0.38 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnP-rGO [19] ,1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 1.96 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,PF-rGO [19],1064 nm; 6 ns; 10 Hz; 1000 uJ,NLA = 5.0 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,"GO-X(=6, 8, 10, 12) [20]",1064 nm; 4 ns,NLA = 45 cm/GW (GO-6) to 9.8 cm/GW (GO-12),Database on the nonlinear optical properties of graphene based materials
+Others ,"Y(80, 100, 120, 140, 160)-rGO-X(6) [20]",1064 nm; 4 ns,NLA = 58 cm/GW (80-rGO-6) to 560 cm/GW (160-rGO-6),Database on the nonlinear optical properties of graphene based materials
+Others ,Y(100)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +1.87x10-17  m2/W ,Database on the nonlinear optical properties of graphene based materials
+Others ,Y(120)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +7.32x10-17  m2/W  ,Database on the nonlinear optical properties of graphene based materials
+Others ,Y(140)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +6.23x10-17  m2/W ,Database on the nonlinear optical properties of graphene based materials
+Others ,Y(160)-rGO-X(6) [20],1064 nm; 4 ns,NLR = +7.36x10-17  m2/W ,Database on the nonlinear optical properties of graphene based materials
+Others ,Y(180)-rGO-X(6) [20],1064 nm; 4 ns,NLA = 490 cm/GW; NLR = +8.40x10-17 m2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,NFG [21],514 nm,NLA = 1.58x10-2cm/W; NLR = -1.52 cm2/MW,Database on the nonlinear optical properties of graphene based materials
+Others ,FG [21],514 nm,NLA = 8.75x10-2cm/W; NLR = -0.53  cm2/MW,Database on the nonlinear optical properties of graphene based materials
+Others ,r-GO [50],532nm; 50 mW,NLA = -2.62x10-4 cm/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [35],532 nm; 1 Hz; 4 ns; 50 uJ,NLA = 1.22 cm/GW  ,Database on the nonlinear optical properties of graphene based materials
+Others ,G [62],800 nm; 1 Hz,NLA ~ -961.6 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [23],532 nm; 50 mW,NLA = 6.1x10-3 cm/W; NLR = 4.0x10-8 cm2/W           ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(15%) rGO [29],532 nm; 50 mW,NLA = 6.5x10-3 cm/W; NLR = 4.7x10-8 cm2/W     ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(25%) rGO [29],532 nm; 50 mW,NLA = 6.3x10-3 cm/W; NLR = 4.5x10-8 cm2/W          ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(40%) rGO [29],532 nm; 50 mW,NLA = 6.1x10-3 cm/W; NLR = 4.5x10-8 cm2/W         ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [29],800 nm; 80MHz; 150 fs, NLA = 12.0x10-12 m/W; NLR = 14.7x10-18 m2/W          ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(15%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 4.0x10-12 m/W; NLR = 4.2x10-18 m2/W         ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(25%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 3.1x10-12 m/W; NLR = 2.8x10-18 m2/W          ,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnFe2O-(40%) rGO [29],800 nm; 80MHz; 150 fs,NLA = 2.6x10-12 m/W; NLR = 1.5x10-18 m2/W           ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [30],532 nm; 10 ns; 0.20 GW/cm2,NLA = 17 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [30],532 nm; 10 ns; 0.16 GW/cm2,NLA = 13.5 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [30],532 nm; 10 ns; 0.10 GW/cm2,NLA = 12 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [30],532 nm; 10 ns; 0.08 GW/cm2,NLA = 10.8 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,NF-rGO [31],532 nm; 5 ns,NLA = 2.8x10-10 m/W,Database on the nonlinear optical properties of graphene based materials
+Others ,NF-rGO [31],800 nm; 100 fs,NLA = 2.5x10-15 m/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [34],532 nm; 4 ns; 10 Hz,NLA = 80 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnPcC4-GO [34],532 nm; 4 ns; 10 Hz,NLA = 200 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,NGO [34],532 nm; 4 ns; 10 Hz,NLA = 120 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,ZnPcC4-NGO [34],532 nm; 4 ns; 10 Hz,NLA = 370 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [35],532 nm; 4 ns,NLA = 3.0x10-10 m/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [36],532 nm; 4 ns; 10 Hz; 25 uJ,NLA = 1.0x10-10 m/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-Cz [37],532 nm,NLA = 58.56 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-Cz [37],1064 nm,NLA = 23.08 cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,G1.1/PMMA [40],532 nm; 6 ns; 1 Hz,NLA =  275 cm/GW    ,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [41],800 nm; 100 fs; 32 uJ/cm,NLA = 40000 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,rGO [41],800 nm; 100 fs; >50 uJ/cm,NLR ~ 10-9 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,f-HEG [42],800 nm; 100 fs,Fth = 2.7 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,CuO/f-HEG [42],532 nm; 5 ns,NLA = 10-10 m/W; Fth = 4.35 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,CuO/f-HEG [42],800 nm; 100 fs,NLA = 10-14 m/W; Fth =1.43 J/cm2 ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [46],532 nm; 5 ns; 10 Hz,NLA = 5.4 cm/GW; Is = 1.7 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Others , f-HEG [49],532 nm; 5 ns; 0.5 Hz,NLA ~ 10-11 to 10-10 m/W ,Database on the nonlinear optical properties of graphene based materials
+Others , f-HEG [49],800 nm; 100 fs; 0.5 Hz,NLA ~ 10-15 m/W; Fth = 2.7 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GO-NH2-Pani hybrid [52],532 nm; 5 ns; 10 Hz; 35 ?J ,NLA = 8.5 cm/GW; Is = 0.8 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [54],800 nm; 120 fs; 1 kHz; 82.1 GW/cm2 ,NLA = 1.6x10-11 cm/W; NLR = -1.1x10-15 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,fG [58],1064 nm; 40 ps; 10 Hz,NLA = 280 cm/GW; Is = 8 GW/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,G [61],532 nm; 6 ns; 10 Hz,NLA = 132cm/GW,Database on the nonlinear optical properties of graphene based materials
+Others ,G-Zn porphyrin [61],532 nm; 6 ns; 10 Hz,NLA = 4720 cm/GW ,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [62],532 nm; 5 ns; 10 Hz,NLA = 7.8 cm/GW; NLR = 9.74x10-14 cm2/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GO [65],532 nm,NLA = 2.8 cm/GW       ,Database on the nonlinear optical properties of graphene based materials
+Others ,GONSs [66],532 nm; 250 uJ/pulse,NLA = 0.29x10-13 cm/W; Fth > 3J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GNSs [66],532 nm; 250 uJ/pulse,NLA = 1.36x10-13 cm/W; Fth = 0.5J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GONRs [66],532 nm; 250 uJ/pulse,NLA = 1.09x10-13 cm/W; Fth = 1J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GNRs [66],532 nm; 250 uJ/pulse,NLA = 1.26x10-13 cm/W; Fth = 0.7 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GONSs [66],1064 nm; 250 uJ/pulse,NLA = 0.12x10-13 cm/W,Database on the nonlinear optical properties of graphene based materials
+Others ,GNSs [66],1064 nm; 250 uJ/pulse,NLA = 1.16x10-13 cm/W; Fth = 6.3J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GONRs [66],1064 nm; 250 uJ/pulse,NLA =1.40x10-13 cm/W; Fth = 4.0 J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,GNRs [66],1064 nm; 250 uJ/pulse,NLA = 1.6x10-13 cm/W; Fth = 3.4  J/cm2,Database on the nonlinear optical properties of graphene based materials
+Others ,Hydrothermally r-GO [71],1560 nm;  100 MHz; CW,Transmittance = 57%;  Pout/Pin = 0.49 ,Database on the nonlinear optical properties of graphene based materials
+Others ,Hydrothermally r-GO [71],1560 nm;  100 MHz; 5 ns,Transmittance = 12% ;  Pout/Pin = 0.11,Database on the nonlinear optical properties of graphene based materials
