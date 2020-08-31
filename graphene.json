@@ -1,0 +1,349 @@
+{
+  "Record": {
+    "RecordType": "SID",
+    "RecordNumber": 17425340,
+    "RecordTitle": "graphene",
+    "Section": [
+      {
+        "TOCHeading": "2D Structure",
+        "Description": "A two-dimensional representation of the substance.",
+        "DisplayControls": {
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 1,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Identity",
+        "Description": "Information describing the identity of this PubChem record, including record identifiers, synonyms (i.e., chemical names), dates, etc.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/docs/subcmpd_summary_page_help.html#Identification",
+        "Section": [
+          {
+            "TOCHeading": "Source",
+            "Description": "Depositor who provided this record",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "URL": "http://www.ebi.ac.uk/chebi/",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChEBI"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "External ID",
+            "Description": "The external identifier associated with the deposited record",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "URL": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:36973",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CHEBI:36973"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Source Category",
+            "Description": "The categorization of the record depositor",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Curation Efforts"
+                    },
+                    {
+                      "String": "Research and Development"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Version",
+            "Description": "Version number of the PubChem record",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "Number": [
+                    10
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Record Description",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Please note that the substance record is presented as provided to PubChem by the source (depositor)."
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Depositor-Supplied Synonyms",
+            "Description": "Chemical names and identifiers as provided by the substance data contributor.",
+            "DisplayControls": {
+              "ListType": "Columns"
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "graphene"
+                    },
+                    {
+                      "String": "Graphen"
+                    },
+                    {
+                      "String": "grafeno"
+                    },
+                    {
+                      "String": "graphene layer"
+                    },
+                    {
+                      "String": "CHEBI:36973"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Deposit Date",
+            "Description": "Date this record was first deposited into PubChem",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "DateISO8601": [
+                    "2006-12-22"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date this record was last updated in PubChem",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 1",
+                "Value": {
+                  "DateISO8601": [
+                    "2006-12-22"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 2",
+                "Value": {
+                  "DateISO8601": [
+                    "2008-09-03"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 3",
+                "Value": {
+                  "DateISO8601": [
+                    "2008-11-27"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 4",
+                "Value": {
+                  "DateISO8601": [
+                    "2009-11-19"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 5",
+                "Value": {
+                  "DateISO8601": [
+                    "2009-11-19"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 6",
+                "Value": {
+                  "DateISO8601": [
+                    "2010-06-03"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 7",
+                "Value": {
+                  "DateISO8601": [
+                    "2010-11-03"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 8",
+                "Value": {
+                  "DateISO8601": [
+                    "2016-03-21"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 9",
+                "Value": {
+                  "DateISO8601": [
+                    "2017-03-02"
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 1,
+                "Name": "Version 10",
+                "Value": {
+                  "DateISO8601": [
+                    "2020-01-01"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Available Date",
+            "Description": "Date this record was first made available to the public",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "DateISO8601": [
+                    "2006-12-22"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Status",
+            "Description": "Current PubChem record status",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Live"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Depositor Comments",
+        "Description": "Comments that were provided by the depositor for this substance",
+        "Information": [
+          {
+            "ReferenceNumber": 1,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "Previously, descriptions such as graphite layers, carbon layers or carbon sheets have been used for the term graphene. Because graphite designates that modification of the chemical element carbon, in which planar sheets of carbon atoms, each atom bound to three neighbours in a honeycomb-like structure, are stacked in a three-dimensional regular order, it is not correct to use for a single layer a term which includes the term graphite, which would imply a three-dimensional structure. The term graphene should be used only when the reactions, structural relations or other properties of individual layers are discussed."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      }
+    ]
+  }
+}
